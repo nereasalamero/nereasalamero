@@ -17,8 +17,6 @@
    </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=nereasalamero&style=flat-square&color=blue" alt=""/>
-
 <h1>
   hey there 👋
 </h1>
@@ -51,6 +49,8 @@ I am a Computer Science Engineering student in the University of Zaragoza, Spain
 
 
 
+
+<img src="https://komarev.com/ghpvc/?username=nereasalamero&style=flat-square&color=blue" alt=""/>
 
 
 
