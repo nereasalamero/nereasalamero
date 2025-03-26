@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hey there 👋</h1>
-  <p>Welcome to my GitHub! I'm passionate about software engineering, open-source projects, and tech innovation.</p>
 </div>
 
 ---
 
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/nerea-salamero-labara-a11a29212/">
+   <a href="https://www.linkedin.com/in/nerea-salamero-labara/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
    </a>
    <a href="https://twitter.com/neereaax">
