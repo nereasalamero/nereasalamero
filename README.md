@@ -27,7 +27,7 @@
 I am an Informatics Engineering student, specializing in Software Engineering at the University of Zaragoza, Spain. I am currently studying at Savonia University of Applied Sciences in Kuopio, Finland, as part of the Erasmus+ program.
 
 - 🌱 Exploring software development, cloud computing, and mobile applications.
-- ⚡ In my free time, I enjoy programming, photography, nature walks, and writing in my blog.
+- ⚡ In my free time, I enjoy programming, photography, nature walks, and sharing my thoughts in my blog.
 - 📫 Reach me through LinkedIn or email!
 
 ---
